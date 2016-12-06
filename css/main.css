@@ -100,6 +100,7 @@ textarea {
      text-align: center;
      background-color: #EBF2FA;
      text-color: #16425B;
+     display: none;
    }
 
    .pic {
@@ -109,7 +110,7 @@ textarea {
      margin-right: auto;
      max-width: 200px;
      max-height: 200px;
-     display: none;
+
 
    }
 
